@@ -6,6 +6,14 @@ body
     font-size: 10px;
     padding: 0%;
 }
+#cabecera
+{
+    background-color: blue;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 0%;
+    padding: 0.5em;
+}
 #container
 {
     width:70%;
